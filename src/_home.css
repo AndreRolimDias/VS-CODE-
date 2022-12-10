@@ -1,0 +1,125 @@
+.home h1 {
+    color: #007acc;
+    background-color: #000;
+    font-size: 10rem;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    
+    text-align: left;
+    text-transform: uppercase;
+    margin: 4rem 30rem -4rem 13rem;
+    
+}
+
+.background_home {
+    margin: -13.5rem 0 0 50rem;
+}
+.home h2 {
+    color: #ffc500;
+    font-size: 3rem;
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin:-2rem 0 0 0;
+}
+
+.geral h2 {
+    font-size: 4rem;
+    color: #007acc;
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: 1rem;  
+}
+
+.btn_icone,
+.btn_icone_windows,
+.btn_icone_apple,
+.btn_icone_linux {
+    color: #000
+    background-color: #fff;
+    padding: 0.5rem 0.5rem;
+    border: 0.2rem solid #ffc500;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.2rem 0.2rem #ffc500;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0 0 2rem 1rem;
+}
+.tabela001 {
+    display: flex;
+}
+
+.tabela1 {
+    color: #000;
+    height: 1.3rem;
+    width: 19rem;
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: solid; 
+    border-color: #ffc500;
+    background-color: #fff;
+    margin: 0 0 3rem 1rem;
+    padding: 0.08rem;
+}
+
+.btn_input {
+    width: 19.5rem;
+    height: 1.3rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+    text-align: ;
+    font-weight: 700;
+    border: solid;
+    border-color: #ffc500;
+    margin: 0rem 0rem 0rem 0.1rem;
+
+}
+
+.btn {
+    cursor: pointer;
+    color: #000;
+    font-size: 1rem;
+    height: 1.7rem;
+    background-color: #fff;
+    border: 0.1rem solid #ffc500;
+    font-weight: 700;
+    text-transform: uppercase;
+   transition: 0.5s all ease;
+   margin: 0 0 0 -4.9rem;
+}
+.btn:hover,
+.btn:active,
+.btn:focus {
+     border-color: #ffc500;
+     background-color: #ffc500;
+     color:#fff;
+}
+
+.btn_icone_windows {
+    margin: 0 0 0 10.3rem;
+}
+
+.btn_icone_apple {
+    margin: 0 0 0 17.2rem;
+}
+
+.btn_icone_linux {
+    margin: 0 0 0 17.6rem;
+}
+
+.tabela, td, th {
+    white-space: nowrap;
+    font-size: 1.1rem;
+    font-weight: 700;
+    border: 0.1rem solid #ffc500;  
+    background-color: #fff;
+    border-collapse: collapse;
+    margin: 0 1rem 0 1rem;
+    
+  
+    
+}
