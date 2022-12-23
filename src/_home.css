@@ -1,0 +1,81 @@
+.home h1 {
+    color: #007acc;
+    background-color: #000;
+    font-size: 10rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+        sans-serif;
+    font-weight: 400;
+
+    text-align: left;
+    text-transform: uppercase;
+    margin: 4rem 30rem -4rem 13rem;
+}
+
+.background_home {
+    margin: -13.5rem 0 0 50rem;
+}
+.home h2 {
+    color: #ffc500;
+    font-size: 3rem;
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin: 0 0 3rem 0;
+}
+
+.geral h2 {
+    font-size: 4rem;
+    color: #007acc;
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+        sans-serif;
+    text-align: center;
+    margin: 0.5rem;
+}
+
+.btn_icone,
+.btn_icone_windows,
+.btn_icone_apple,
+.btn_icone_linux {
+    color: #000;
+    background-color: #fff;
+    padding: 0.5rem 0.5rem;
+    border: 0.2rem solid #ffc500;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.2rem 0.2rem #ffc500;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0 0 2rem 1rem;
+}
+
+.btn_icone_windows {
+    margin: 0 0 0 18.5rem;
+}
+
+.btn_icone_apple {
+    margin: 0 0 0 15.3rem;
+}
+
+.btn_icone_linux {
+    margin: 0 0 0 13.8rem;
+}
+
+table,
+tr,
+th {
+    font-size: 1rem;
+    font-weight: 200;
+    letter-spacing: 0.2rem;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: left;
+    border: 0.01rem solid #ffc500;
+    border-collapse: collapse;
+    padding: 0.5rem 5.5rem 0.5rem 0.5rem;
+    margin-left: 1rem;
+}
+h3 {
+    color: #fff;
+}
