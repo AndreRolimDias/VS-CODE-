@@ -46,13 +46,13 @@
 
 .background_img {
     width: 5rem;
-    margin: 0.5rem 0 0 11rem;
+    margin: 0.5rem 0 0 13rem;
 }
 
 @media screen and (min-width: 368px) {
     .background_img {
         width: 5rem;
-        margin: 0.5rem 0 0 13rem;
+        margin: 0.5rem 0 0 15rem;
     }
 }
 
