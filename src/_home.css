@@ -27,7 +27,7 @@
         font-weight: 400;
         text-align: left;
         text-transform: uppercase;
-        margin: 4rem 30rem -4rem 16.9rem;
+        margin: 4rem 30rem -4rem 18.9rem;
     }
 }
 @media screen and (min-width: 2080px) {
@@ -59,7 +59,7 @@
 @media screen and (min-width: 700px) {
     .background_img {
         width: 12rem;
-        margin: -5.3rem 0 0 40rem;
+        margin: -5.3rem 0 0 45rem;
     }
 }
 
