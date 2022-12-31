@@ -21,16 +21,16 @@
     .home h1 {
         color: #007acc;
         background-color: #000;
-        font-size: 10rem;
+        font-size: 6rem;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
             sans-serif;
         font-weight: 400;
         text-align: left;
         text-transform: uppercase;
-        margin: 4rem 30rem -4rem 15rem;
+        margin: 4rem 30rem -4rem 16.9rem;
     }
 }
-@media screen and (min-width: 2560px) {
+@media screen and (min-width: 2080px) {
     .home h1 {
         color: #007acc;
         background-color: #000;
@@ -40,7 +40,7 @@
         font-weight: 400;
         text-align: left;
         text-transform: uppercase;
-        margin: 4rem 30rem -4rem 57rem;
+        margin: 4rem 30rem -4rem 42rem;
     }
 }
 
@@ -58,15 +58,15 @@
 
 @media screen and (min-width: 700px) {
     .background_img {
-        width: 22rem;
-        margin: -12.5rem 0 0 50rem;
+        width: 12rem;
+        margin: -5.3rem 0 0 40rem;
     }
 }
 
-@media screen and (min-width: 2560px) {
+@media screen and (min-width: 2080px) {
     .background_img {
         width: 22rem;
-        margin: -12.5rem 0 0 92rem;
+        margin: -12.5rem 0 0 77rem;
     }
 }
 .home h2 {
@@ -82,7 +82,7 @@
 @media screen and (min-width: 700px) {
     .home h2 {
         color: #ffc500;
-        font-size: 3rem;
+        font-size: 2rem;
         background-color: #000;
         width: 100%;
         height: 100%;
@@ -121,7 +121,7 @@
         font-size: 1.5rem;
         font-weight: 700;
         text-transform: uppercase;
-        margin: 0 0 2rem 1rem;
+        margin: 0 0 0rem 1rem;
     }
 }
 
@@ -147,13 +147,13 @@
 @media screen and (min-width: 700px) {
     .btn_icone_windows {
         color: #007acc;
-        margin: 0 0 0 14.9rem;
+        margin: 0 0 0 24.5rem;
     }
 }
-@media screen and (min-width: 2560px) {
+@media screen and (min-width: 2080px) {
     .btn_icone_windows {
         color: #007acc;
-        margin: 0 0 0 33.8rem;
+        margin: 0 0 0 27.8rem;
     }
 }
 .btn_icone_apple {
@@ -164,13 +164,13 @@
 @media screen and (min-width: 700px) {
     .btn_icone_apple {
         color: #c0c0c0;
-        margin: 0 0 0 16.9rem;
+        margin: 0 0 0 11rem;
     }
 }
-@media screen and (min-width: 2060px) {
+@media screen and (min-width: 2080px) {
     .btn_icone_apple {
         color: #c0c0c0;
-        margin: 0 0 0 38.5rem;
+        margin: 0 0 0 31.3rem;
     }
 }
 
@@ -180,13 +180,13 @@
 
 @media screen and (min-width: 700px) {
     .btn_icone_linux {
-        margin: 0 0 0 14.9rem;
+        margin: 0 0 0 13rem;
     }
 }
 
-@media screen and (min-width: 2060px) {
+@media screen and (min-width: 2080px) {
     .btn_icone_linux {
-        margin: 0 0 0 38.2rem;
+        margin: 0 0 0 30.2rem;
     }
 }
 
@@ -239,9 +239,23 @@ th {
         border: 0.01rem solid #ffc500;
         border-collapse: collapse;
         padding: 0.5rem 5.5rem 0.5rem 0.5rem;
-        margin: 35.5rem 0.5rem 2rem 0.5rem;
+        margin: 25rem 0.5rem 2rem 0.5rem;
     }
 }
-h3 {
-    color: #fff;
+
+@media screen and (min-width: 2080px) {
+    table,
+    tr,
+    th {
+        font-size: 1rem;
+        font-weight: 200;
+        letter-spacing: 0.2rem;
+        color: #fff;
+        text-transform: uppercase;
+        text-align: left;
+        border: 0.01rem solid #ffc500;
+        border-collapse: collapse;
+        padding: 0.5rem 5.5rem 0.5rem 0.5rem;
+        margin: 34rem 0.5rem 2rem 0.5rem;
+    }
 }
