@@ -121,7 +121,7 @@
         font-size: 1.5rem;
         font-weight: 700;
         text-transform: uppercase;
-        margin: 0 0 0rem 1rem;
+        margin: 0 0 2rem 1rem;
     }
 }
 
@@ -239,7 +239,7 @@ th {
         border: 0.01rem solid #ffc500;
         border-collapse: collapse;
         padding: 0.5rem 5.5rem 0.5rem 0.5rem;
-        margin: 25rem 0.5rem 2rem 0.5rem;
+        margin: 28rem 0.5rem 2rem 0.5rem;
     }
 }
 
@@ -256,6 +256,6 @@ th {
         border: 0.01rem solid #ffc500;
         border-collapse: collapse;
         padding: 0.5rem 5.5rem 0.5rem 0.5rem;
-        margin: 34rem 0.5rem 2rem 0.5rem;
+        margin: 36rem 0.5rem 2rem 0.5rem;
     }
 }
