@@ -1,3 +1,5 @@
+👩‍💻Neste projeto próprio, pude aplicar técnicas que aprendi recentemente usando html e css. Foi um desafio que coloquei como teste para aperfeiçoar meus conhecimentos e treinar a lógica de programação!
+
 ## 🌐48 Atalhos de teclado úteis do VS-CODE
 
 <div>
@@ -11,6 +13,10 @@
 ## 📽️Apresentação:
 
 <img src="https://github.com/AndreRolimDias/VS-CODE-/blob/master/src/image/vs%20code%20gif.gif" alt="">
+
+## 📱Mobile
+
+<img alt='HTML5' height="450" width="200" src='https://github.com/AndreRolimDias/VS-CODE-/blob/master/src/image/48%20atalhos%20vscode%20mobile.gif'>
 
 
 ## 🚀Tecnologias usadas no projeto:
